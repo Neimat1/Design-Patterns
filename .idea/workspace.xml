@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="533f96d5-7124-49a8-8472-af4ff38a38e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/structural/patterns/adapter/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/patterns/adapter/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/patterns/adapter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/patterns/adapter/PlasticToyDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/patterns/adapter/Sparrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/patterns/adapter/ToyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/patterns/bridge/BlueShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/patterns/bridge/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/patterns/bridge/ColoredShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/patterns/bridge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/patterns/bridge/RedShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/patterns/bridge/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/patterns/bridge/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +51,13 @@
       <recent name="creational.patterns.factory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.structural.patterns.adapter.Main">
-    <configuration name="behavioral.patterns.observer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioral.patterns.observer.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural.patterns.bridge.Main" />
       <module name="Design-Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavioral.patterns.observer.*" />
+          <option name="PATTERN" value="structural.patterns.bridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.structural.patterns.adapter.Main" />
         <item itemvalue="Application.structural.patterns.composite.Main" />
         <item itemvalue="Application.structural.patterns.facade.Main" />
         <item itemvalue="Application.creational.patterns.factory.Main" />
-        <item itemvalue="Application.behavioral.patterns.observer.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -147,20 +148,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/structural/patterns/adapter/Main.java</url>
-          <line>3</line>
-          <properties class="structural.patterns.adapter.Main" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
