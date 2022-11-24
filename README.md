@@ -21,3 +21,6 @@ Some Design Patterns with it's implementation in java
         allows objects with incompatible interfaces to collaborate.
     * #### Composite 
         lets you compose objects into tree structures and then work with these structures as if they were individual objects.
+    * #### Bridge 
+        lets you split a large class or a set of closely related classes into two separate hierarchies
+        —abstraction and implementation—which can be developed independently of each other..
