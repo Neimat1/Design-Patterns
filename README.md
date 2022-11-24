@@ -17,3 +17,5 @@ Some Design Patterns with it's implementation in java
  * ### Structural Patterns
     * #### Facade 
         provides a simplified interface to a library, a framework, or any other complex set of classes.
+    * #### Adapter 
+        allows objects with incompatible interfaces to collaborate.
