@@ -19,3 +19,5 @@ Some Design Patterns with it's implementation in java
         provides a simplified interface to a library, a framework, or any other complex set of classes.
     * #### Adapter 
         allows objects with incompatible interfaces to collaborate.
+    * #### Composite 
+        lets you compose objects into tree structures and then work with these structures as if they were individual objects.
