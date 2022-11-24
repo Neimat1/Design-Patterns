@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="533f96d5-7124-49a8-8472-af4ff38a38e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/creational/patterns/factory/CheeseBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/patterns/factory/Hamburger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/patterns/factory/HamburgerStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/patterns/factory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/patterns/factory/SimpleHamburgerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/patterns/factory/VeggieBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/patterns/composite/CompanyDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/patterns/composite/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/patterns/composite/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/patterns/composite/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/patterns/composite/Manager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +49,7 @@
       <recent name="creational.patterns.factory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.creational.patterns.factory.Main">
+  <component name="RunManager" selected="Application.structural.patterns.composite.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="behavioral.patterns.command.Main" />
       <module name="Design-Patterns" />
@@ -91,8 +89,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="structural.patterns.composite.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural.patterns.composite.Main" />
+      <module name="Design-Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structural.patterns.composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="structural.patterns.facade.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural.patterns.facade.Main" />
+      <module name="Design-Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structural.patterns.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.structural.patterns.composite.Main" />
+        <item itemvalue="Application.structural.patterns.facade.Main" />
         <item itemvalue="Application.creational.patterns.factory.Main" />
         <item itemvalue="Application.behavioral.patterns.observer.Main" />
         <item itemvalue="Application.Main" />
