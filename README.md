@@ -32,3 +32,4 @@ Some Design Patterns with it's implementation in java
 * https://www.geeksforgeeks.org/adapter-pattern/
 * https://www.geeksforgeeks.org/composite-design-pattern/
 * https://www.tutorialspoint.com/design_pattern/facade_pattern.htm 
+* https://www.tutorialspoint.com/design_pattern/bridge_pattern.htm
