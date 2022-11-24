@@ -24,3 +24,11 @@ Some Design Patterns with it's implementation in java
     * #### Bridge 
         lets you split a large class or a set of closely related classes into two separate hierarchies
         —abstraction and implementation—which can be developed independently of each other..
+        
+        
+##### Resources:
+* https://learning.oreilly.com/videos/learn-java-design/9781800567320/
+* https://refactoring.guru/design-patterns
+* https://www.geeksforgeeks.org/adapter-pattern/
+* https://www.geeksforgeeks.org/composite-design-pattern/
+* https://www.tutorialspoint.com/design_pattern/facade_pattern.htm 
